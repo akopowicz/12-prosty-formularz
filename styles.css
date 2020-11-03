@@ -1,26 +1,24 @@
-div {
+form {
+    padding: 1%;
     width: 200px;
     height: 180px;
     border: 1px solid rgb(245, 245, 245);
     background: rgb(245, 245, 245);
     border-radius: 3px;
-    padding: 5px;
-}
-
-form {
-    padding: 7px;
 }
 
 input {
-    margin: 5px;
+    margin-top: 5px;
     padding: 5px;
     border-radius: 7px;
     border-color: rgb(175, 175, 175);
 }
 
-
+.text {
+    width: 95%;
+}
 label {
-    margin-left: 8px;
+    margin-left: 5px;
 }
 
 #name {
@@ -33,5 +31,7 @@ label {
     border-color: rgb(68, 68, 192);
     width: 70px;
     border-radius: 10px;
-    margin: 10px 30%;
+    margin-top: 30px;
+    margin-left: 50%;
+    transform: translate(-50%, -50%)
 }
