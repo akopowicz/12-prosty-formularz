@@ -1,0 +1,37 @@
+div {
+    width: 200px;
+    height: 180px;
+    border: 1px solid rgb(245, 245, 245);
+    background: rgb(245, 245, 245);
+    border-radius: 3px;
+    padding: 5px;
+}
+
+form {
+    padding: 7px;
+}
+
+input {
+    margin: 5px;
+    padding: 5px;
+    border-radius: 7px;
+    border-color: rgb(175, 175, 175);
+}
+
+
+label {
+    margin-left: 8px;
+}
+
+#name {
+    margin-bottom: 10px;
+}
+
+#submit {
+    background: rgb(68, 68, 192);
+    color: white;
+    border-color: rgb(68, 68, 192);
+    width: 70px;
+    border-radius: 10px;
+    margin: 10px 30%;
+}
